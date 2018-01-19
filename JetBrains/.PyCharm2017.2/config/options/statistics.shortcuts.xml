@@ -1,0 +1,47 @@
+<application>
+  <component name="ShortcutsCollector">
+    <counts>
+      <entry shortcut="Alt+D" count="9" />
+      <entry shortcut="Alt+Enter" count="1" />
+      <entry shortcut="Alt+Slash" count="3" />
+      <entry shortcut="Backspace" count="2924" />
+      <entry shortcut="Ctrl+1" count="1" />
+      <entry shortcut="Ctrl+3" count="1" />
+      <entry shortcut="Ctrl+A" count="8" />
+      <entry shortcut="Ctrl+C" count="772" />
+      <entry shortcut="Ctrl+D" count="363" />
+      <entry shortcut="Ctrl+F" count="16" />
+      <entry shortcut="Ctrl+F1" count="14" />
+      <entry shortcut="Ctrl+Left" count="1" />
+      <entry shortcut="Ctrl+Right" count="1" />
+      <entry shortcut="Ctrl+S" count="1051" />
+      <entry shortcut="Ctrl+Shift+F" count="16" />
+      <entry shortcut="Ctrl+Shift+Left" count="8" />
+      <entry shortcut="Ctrl+Shift+P" count="1" />
+      <entry shortcut="Ctrl+Shift+Right" count="16" />
+      <entry shortcut="Ctrl+Slash" count="72" />
+      <entry shortcut="Ctrl+V" count="1012" />
+      <entry shortcut="Ctrl+X" count="135" />
+      <entry shortcut="Ctrl+Y" count="2" />
+      <entry shortcut="Ctrl+Z" count="254" />
+      <entry shortcut="Delete" count="339" />
+      <entry shortcut="Down" count="723" />
+      <entry shortcut="Enter" count="1159" />
+      <entry shortcut="Escape" count="1" />
+      <entry shortcut="F6" count="602" />
+      <entry shortcut="F7" count="52" />
+      <entry shortcut="F8" count="410" />
+      <entry shortcut="Insert" count="6" />
+      <entry shortcut="Left" count="3055" />
+      <entry shortcut="Right" count="2622" />
+      <entry shortcut="Shift+Backspace" count="6" />
+      <entry shortcut="Shift+Down" count="3" />
+      <entry shortcut="Shift+Left" count="249" />
+      <entry shortcut="Shift+Right" count="389" />
+      <entry shortcut="Shift+Tab" count="17" />
+      <entry shortcut="Shift+Up" count="10" />
+      <entry shortcut="Tab" count="141" />
+      <entry shortcut="Up" count="524" />
+    </counts>
+  </component>
+</application>

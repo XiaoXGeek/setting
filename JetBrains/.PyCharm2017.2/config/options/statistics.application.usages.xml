@@ -1,0 +1,27 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.Pure Python" count="3" />
+      <entry feature="django.manage.py.in.project.root" count="1" />
+      <entry feature="execute.PythonConfigurationType.Debug" count="83" />
+      <entry feature="execute.PythonConfigurationType.Run" count="294" />
+      <entry feature="ide.settings.Appearance" count="9" />
+      <entry feature="ide.settings.File_Encodings" count="6" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="1" />
+      <entry feature="ide.settings.Font" count="6" />
+      <entry feature="ide.settings.Inspections" count="1" />
+      <entry feature="ide.settings.Keymap" count="2" />
+      <entry feature="ide.settings.Project_Interpreter" count="2" />
+      <entry feature="ide.settings.SSH_Terminal" count="1" />
+      <entry feature="ide.settings.System_Settings" count="1" />
+      <entry feature="ide.settings.TODO" count="2" />
+      <entry feature="ide.settings.Terminal" count="2" />
+      <entry feature="ide.settings.Vagrant" count="1" />
+      <entry feature="ideaapp.started" count="29" />
+      <entry feature="python.console.local" count="5" />
+      <entry feature="terminal.win" count="11" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="3" />
+      <entry feature="welcome.screen.null" count="1" />
+    </counts>
+  </component>
+</application>

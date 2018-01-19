@@ -1,0 +1,97 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="D:/code/idea_python/SinaLogin" />
+        <option value="D:/code/idea_python/sinaLogin_code" />
+        <option value="D:/code/idea_python/SinaSpider" />
+        <option value="D:/code/idea_python/SinaScrapy" />
+        <option value="D:/code/idea_python/SinaLogin_local" />
+        <option value="$USER_HOME$/AppData/Local/Temp/页面请求.py" />
+        <option value="D:/code/idea_python/TestRedis" />
+      </list>
+    </option>
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AppData/Local/Temp/页面请求.py">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-172.3968.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511276203864" />
+              <option name="buildTimestamp" value="1504274499286" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/idea_python/SinaLogin">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-172.3968.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515563617526" />
+              <option name="buildTimestamp" value="1504274474417" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/idea_python/SinaLogin_local">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-172.3968.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515198582419" />
+              <option name="buildTimestamp" value="1504274494836" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/idea_python/SinaScrapy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-172.3968.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515198934051" />
+              <option name="buildTimestamp" value="1504274460846" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/idea_python/SinaSpider">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-172.3968.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515205936184" />
+              <option name="buildTimestamp" value="1504274504342" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/idea_python/TestRedis">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-172.3968.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508827501205" />
+              <option name="buildTimestamp" value="1504274519001" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/idea_python/sinaLogin_code">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-172.3968.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515548629235" />
+              <option name="buildTimestamp" value="1504274474417" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="D:/code/idea_python" />
+  </component>
+</application>

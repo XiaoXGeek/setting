@@ -1,0 +1,57 @@
+<application>
+  <component name="DimensionService">
+    <location key="new project wizard.0.0.1920.1080" x="510" y="235" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="962" y="244" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="891" y="156" />
+    <location key="SettingsEditor.0.0.1920.1080" x="246" y="135" />
+    <location key="#Browse_Repositories.0.0.1920.1080" x="539" y="86" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="578" y="392" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.1920.1080" x="539" y="86" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="794" y="261" />
+    <location key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.0.0.1920.1080" x="578" y="197" />
+    <location key="GitCloneDialog.0.0.1920.1080" x="769" y="339" />
+    <location key="find.popup.0.0.1920.1080" x="647" y="125" />
+    <location key="#Project_Structure.0.0.1920.1080" x="438" y="87" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="500" y="106" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1080" x="600" y="85" />
+    <location key="Github.CreateGistDialog.0.0.1920.1080" x="769" y="415" />
+    <location key="Github.ShareDialog.0.0.1920.1080" x="737" y="385" />
+    <location key="Github.UntrackedFilesDialog.0.0.1920.1080" x="795" y="191" />
+    <location key="Vcs.Push.Dialog.0.0.1920.1080" x="775" y="217" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="545" y="78" />
+    <location key="#Notifications.0.0.1920.1080" x="709" y="238" />
+    <location key="scopes.0.0.1920.1080" x="752" y="370" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="662" y="305" />
+    <location key="#Enter_Your_License_Key.0.0.1920.1080" x="862" y="451" />
+    <location key="git4idea.rebase.GitRebaseDialog.0.0.1920.1080" x="759" y="366" />
+    <location key="svn.repositoryBrowser.0.0.1920.1080" x="790" y="302" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080" x="701" y="393" />
+    <location key="#TODO.0.0.1920.1080" x="703" y="0" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080" x="690" y="287" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="765" y="221" />
+    <location key="StructurePopup.0.0.1920.1080" x="715" y="302" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1920.1080" x="709" y="379" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1920.1080" x="641" y="298" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1920.1080" x="556" y="427" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="921" height="422" />
+    <size key="GitCloneDialog.0.0.1920.1080" width="601" height="235" />
+    <size key="find.popup.0.0.1920.1080" width="844" height="654" />
+    <size key="new project wizard.0.0.1920.1080" width="899" height="569" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1872" height="290" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1872" height="290" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1872" height="290" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1872" height="290" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" width="1092" height="709" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1872" height="290" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1872" height="290" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1872" height="290" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1872" height="290" />
+    <size key="DebuggerActiveHint.0.0.1920.1080" width="1197" height="486" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1279" height="766" />
+    <size key="scopes.0.0.1920.1080" width="416" height="454" />
+    <size key="XDebugger.FullValuePopup.0.0.1920.1080" width="970" height="530" />
+    <size key="NewModule_or_Project.wizard.0.0.1920.1080" width="856" height="730" />
+    <size key="StructurePopup.0.0.1920.1080" width="472" height="394" />
+    <size key="javadoc.popup.0.0.1920.1080" width="520" height="321" />
+  </component>
+</application>

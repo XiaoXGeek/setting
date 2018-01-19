@@ -1,0 +1,31 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="743" y="186" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="962" y="437" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="667" y="330" />
+    <location key="SettingsEditor.0.0.1920.1080" x="444" y="115" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1920.1080" x="495" y="223" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="685" y="333" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="390" y="173" />
+    <location key="SettingsEditor.0.0.1366.768" x="0" y="0" />
+    <location key="SettingsEditor.0.0.1366.768@144dpi" x="149" y="12" />
+    <location key="com.intellij.ide.util.TipDialog.1920.0.1920.1080" x="2639" y="373" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="1438" y="840" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1872" height="194" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1872" height="194" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1872" height="194" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1872" height="194" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1872" height="612" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1872" height="612" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1872" height="612" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1872" height="612" />
+    <size key="DebuggerActiveHint.0.0.1920.1080" width="921" height="486" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1318" height="335" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1318" height="335" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1318" height="335" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1318" height="335" />
+    <size key="XDebugger.FullValuePopup.0.0.1920.1080" width="970" height="530" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1081" height="704" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="400" height="209" />
+  </component>
+</application>

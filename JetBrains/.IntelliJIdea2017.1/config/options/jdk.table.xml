@@ -1,0 +1,133 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.5.4 virtualenv at E:\Envs\py354scrapy" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.4" />
+      <homePath value="E:\Envs\py354scrapy\Scripts\python.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://E:/Envs/py354scrapy/Lib" />
+            <root type="simple" url="file://E:/Envs/py354scrapy/Scripts" />
+            <root type="simple" url="file://C:/Code/Python/Python35/Lib" />
+            <root type="simple" url="file://C:/Code/Python/Python35/DLLs" />
+            <root type="simple" url="file://E:/Envs/py354scrapy" />
+            <root type="simple" url="file://E:/Envs/py354scrapy/Lib/site-packages" />
+            <root type="simple" url="file://E:/Envs/py354scrapy/Lib/site-packages/win32" />
+            <root type="simple" url="file://E:/Envs/py354scrapy/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://E:/Envs/py354scrapy/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://E:/Envs/py354scrapy/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.IntelliJIdea2017.1/system/python_stubs/-567503276" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_11&quot;" />
+      <homePath value="C:/Code/Java/jdk1.8.0_11" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Code/Java/jdk1.8.0_11/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://C:/Code/Java/jdk1.8.0_11/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://C:/Code/Java/jdk1.8.0_11/jre/lib/ext/access-bridge-64.jar!/" />
+            <root type="simple" url="jar://C:/Code/Java/jdk1.8.0_11/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar://C:/Code/Java/jdk1.8.0_11/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://C:/Code/Java/jdk1.8.0_11/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar://C:/Code/Java/jdk1.8.0_11/jre/lib/ext/jfxrt.jar!/" />
+            <root type="simple" url="jar://C:/Code/Java/jdk1.8.0_11/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://C:/Code/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar://C:/Code/Java/jdk1.8.0_11/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar://C:/Code/Java/jdk1.8.0_11/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar://C:/Code/Java/jdk1.8.0_11/jre/lib/ext/sunmscapi.jar!/" />
+            <root type="simple" url="jar://C:/Code/Java/jdk1.8.0_11/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar://C:/Code/Java/jdk1.8.0_11/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar://C:/Code/Java/jdk1.8.0_11/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://C:/Code/Java/jdk1.8.0_11/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://C:/Code/Java/jdk1.8.0_11/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar://C:/Code/Java/jdk1.8.0_11/jre/lib/jfxswt.jar!/" />
+            <root type="simple" url="jar://C:/Code/Java/jdk1.8.0_11/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://C:/Code/Java/jdk1.8.0_11/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://C:/Code/Java/jdk1.8.0_11/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar://C:/Code/Java/jdk1.8.0_11/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://C:/Code/Java/jdk1.8.0_11/jre/lib/rt.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Code/Java/jdk1.8.0_11/src.zip!/" />
+            <root type="simple" url="jar://C:/Code/Java/jdk1.8.0_11/javafx-src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.13 virtualenv at E:\Envs\py2scrapy" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="E:\Envs\py2scrapy\Scripts\python.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://E:/Envs/py2scrapy/Lib" />
+            <root type="simple" url="file://E:/Envs/py2scrapy/Scripts" />
+            <root type="simple" url="file://C:/Code/Python/python27/Lib" />
+            <root type="simple" url="file://C:/Code/Python/python27/DLLs" />
+            <root type="simple" url="file://C:/Code/Python/python27/Lib/lib-tk" />
+            <root type="simple" url="file://E:/Envs/py2scrapy" />
+            <root type="simple" url="file://E:/Envs/py2scrapy/Lib/site-packages" />
+            <root type="simple" url="file://E:/Envs/py2scrapy/Lib/site-packages/win32" />
+            <root type="simple" url="file://E:/Envs/py2scrapy/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://E:/Envs/py2scrapy/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://$USER_HOME$/.IntelliJIdea2017.1/system/python_stubs/1813356084" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

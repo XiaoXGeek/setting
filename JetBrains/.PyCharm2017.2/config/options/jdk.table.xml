@@ -1,0 +1,130 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.5.4 virtualenv at E:\Envs\py354scrapy" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.4" />
+      <homePath value="E:\Envs\py354scrapy\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://E:/Envs/py354scrapy/Lib" />
+            <root type="simple" url="file://E:/Envs/py354scrapy/Scripts" />
+            <root type="simple" url="file://C:/Code/Python/Python35/Lib" />
+            <root type="simple" url="file://C:/Code/Python/Python35/DLLs" />
+            <root type="simple" url="file://E:/Envs/py354scrapy" />
+            <root type="simple" url="file://E:/Envs/py354scrapy/Lib/site-packages" />
+            <root type="simple" url="file://E:/Envs/py354scrapy/Lib/site-packages/win32" />
+            <root type="simple" url="file://E:/Envs/py354scrapy/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://E:/Envs/py354scrapy/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://E:/Envs/py354scrapy/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-567503276" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/code/idea_python/SinaLogin" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.4 (C:\Code\Python\Python35\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.4" />
+      <homePath value="C:\Code\Python\Python35\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Code/Python/Python35/DLLs" />
+            <root type="simple" url="file://C:/Code/Python/Python35/Lib" />
+            <root type="simple" url="file://C:/Code/Python/Python35" />
+            <root type="simple" url="file://C:/Code/Python/Python35/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1245714872" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.13 (C:\Code\Python\python27\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="C:\Code\Python\python27\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Code/Python/python27/DLLs" />
+            <root type="simple" url="file://C:/Code/Python/python27/Lib" />
+            <root type="simple" url="file://C:/Code/Python/python27/Lib/lib-tk" />
+            <root type="simple" url="file://C:/Code/Python/python27" />
+            <root type="simple" url="file://C:/Code/Python/python27/Lib/site-packages" />
+            <root type="simple" url="file://C:/Code/Python/python27/Lib/site-packages/win32" />
+            <root type="simple" url="file://C:/Code/Python/python27/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://C:/Code/Python/python27/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1947442523" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.13 virtualenv at E:\Envs\py2scrapy" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="E:\Envs\py2scrapy\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://E:/Envs/py2scrapy/Lib" />
+            <root type="simple" url="file://E:/Envs/py2scrapy/Scripts" />
+            <root type="simple" url="file://C:/Code/Python/python27/Lib" />
+            <root type="simple" url="file://C:/Code/Python/python27/DLLs" />
+            <root type="simple" url="file://C:/Code/Python/python27/Lib/lib-tk" />
+            <root type="simple" url="file://E:/Envs/py2scrapy" />
+            <root type="simple" url="file://E:/Envs/py2scrapy/Lib/site-packages" />
+            <root type="simple" url="file://E:/Envs/py2scrapy/Lib/site-packages/win32" />
+            <root type="simple" url="file://E:/Envs/py2scrapy/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://E:/Envs/py2scrapy/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/1813356084" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/code/idea_python/sinaLogin_code" />
+    </jdk>
+  </component>
+</application>

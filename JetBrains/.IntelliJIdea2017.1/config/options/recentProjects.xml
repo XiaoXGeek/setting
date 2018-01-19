@@ -1,0 +1,411 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="D:\code\idea_java\Niuke" />
+        <option value="D:\code\idea_scala\Weibo" />
+        <option value="D:\Program\idea_python\SinaSpider" />
+        <option value="D:\code\idea_python\weiboLogin" />
+        <option value="D:\code\idea_java\Weibo" />
+        <option value="D:\code\idea_scala\Weibo_Spark" />
+        <option value="D:\code\idea_java\HadoopRemoteDebug" />
+        <option value="D:\code\idea_java\java" />
+        <option value="D:\Program\idea_java" />
+        <option value="D:\code\hadoop_sourcecode\hadoop-1.0.0" />
+        <option value="D:\code\hadoop_sourcecode\《Hadoop技术内幕》(蔡斌%2b陈湘萍)源代码121207\HadoopInternal" />
+        <option value="D:\code\hadoop_sourcecode\MyHadoopSourceCode" />
+        <option value="D:\Program\idea_python\python" />
+        <option value="D:\code\hadoop_sourcecode\hadoop-3.0.0-beta1-src" />
+        <option value="D:\code\idea_python\TestRedis" />
+        <option value="D:\Program\idea_python\Test" />
+        <option value="D:\code\idea_python\MySinaSpider" />
+        <option value="D:\code\idea_python\zhihu" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="D:\code\idea_java\Niuke" />
+      </list>
+    </option>
+    <option name="lastPath" value="D:\code\idea_java\Niuke" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="C:\Users\HASEE\IdeaProjects\NewsCrawler">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1504770642448" />
+              <option name="buildTimestamp" value="1494606696569" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\HASEE\IdeaProjects\ScalaDemo_1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1503714168062" />
+              <option name="buildTimestamp" value="1494606703266" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\HASEE\IdeaProjects\Test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1495698817765" />
+              <option name="buildTimestamp" value="1494606693358" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\HASEE\IdeaProjects\Test1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1501927301615" />
+              <option name="buildTimestamp" value="1494606693940" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\HASEE\IdeaProjects\WebCollector">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1503792990652" />
+              <option name="buildTimestamp" value="1494606710996" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\HASEE\IdeaProjects\untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1501927357378" />
+              <option name="buildTimestamp" value="1494606693940" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Program\Demo01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1505048772901" />
+              <option name="buildTimestamp" value="1494606708639" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Program\idea_java">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1509884876535" />
+              <option name="buildTimestamp" value="1494606671171" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Program\idea_python">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1505048634807" />
+              <option name="buildTimestamp" value="1494606708639" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Program\idea_python\Demo01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1505694525527" />
+              <option name="buildTimestamp" value="1494606688434" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Program\idea_python\SinaSpider">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1514973561393" />
+              <option name="buildTimestamp" value="1494606685970" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Program\idea_python\Test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1507296671384" />
+              <option name="buildTimestamp" value="1494606665809" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Program\idea_python\jobboleSpider">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1505895666263" />
+              <option name="buildTimestamp" value="1494606719670" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Program\idea_python\py2scrapy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1505802824896" />
+              <option name="buildTimestamp" value="1494606699399" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Program\idea_python\python">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1508228404229" />
+              <option name="buildTimestamp" value="1494606714887" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Program\idea_python\zhihu">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1506066234885" />
+              <option name="buildTimestamp" value="1494606709406" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\code\hadoop_sourcecode\MyHadoopSourceCode">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1508473000015" />
+              <option name="buildTimestamp" value="1494606712541" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\code\hadoop_sourcecode\hadoop">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1508207256266" />
+              <option name="buildTimestamp" value="1494606676820" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\code\hadoop_sourcecode\hadoop-1.0.0">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1509884864430" />
+              <option name="buildTimestamp" value="1494606671171" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\code\hadoop_sourcecode\hadoop-3.0.0-beta1-src">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1508208603055" />
+              <option name="buildTimestamp" value="1494606676820" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\code\hadoop_sourcecode\《Hadoop技术内幕》(蔡斌%2b陈湘萍)源代码121207\HadoopInternal">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1509882191538" />
+              <option name="buildTimestamp" value="1494606671171" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\code\idea_java">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1515928431775" />
+              <option name="buildTimestamp" value="1494606666228" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\code\idea_java\HadoopRemoteDebug">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1511853241985" />
+              <option name="buildTimestamp" value="1494606715894" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\code\idea_java\Niuke">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1516021916189" />
+              <option name="buildTimestamp" value="1494606705580" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\code\idea_java\Weibo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1513125869312" />
+              <option name="buildTimestamp" value="1494606670022" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\code\idea_java\java">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1510367872046" />
+              <option name="buildTimestamp" value="1494606697568" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\code\idea_python\MySinaSpider">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1506664461744" />
+              <option name="buildTimestamp" value="1494606684310" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\code\idea_python\SinaLogin">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1508050385236" />
+              <option name="buildTimestamp" value="1494606715855" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\code\idea_python\TestRedis">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1507707406430" />
+              <option name="buildTimestamp" value="1494606699464" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\code\idea_python\weiboLogin">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1514973473624" />
+              <option name="buildTimestamp" value="1494606685970" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\code\idea_python\zhihu">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1506124396121" />
+              <option name="buildTimestamp" value="1494606669091" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\code\idea_scala\Weibo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1514973580398" />
+              <option name="buildTimestamp" value="1494606685970" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\code\idea_scala\Weibo_Spark">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1512609992253" />
+              <option name="buildTimestamp" value="1494606685373" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:\desktop\jobboleSpider">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4424.56" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Code\idea\IntelliJ IDEA 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1505872918944" />
+              <option name="buildTimestamp" value="1494606679222" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="D:/code/idea_java" />
+  </component>
+</application>

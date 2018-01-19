@@ -1,0 +1,53 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="4" />
+      <entry feature="OpenInBrowser.Chrome" count="6" />
+      <entry feature="OpenInBrowser.Firefox" count="1" />
+      <entry feature="StripeButton[Version_Control].hidden" count="1" />
+      <entry feature="StripeButton[Version_Control].shown" count="8" />
+      <entry feature="configure.code.style.on.selected.fragment" count="1" />
+      <entry feature="django.manage.py.in.project.root" count="1" />
+      <entry feature="execute.Application.Coverage" count="1" />
+      <entry feature="execute.Application.Debug" count="46" />
+      <entry feature="execute.Application.Run" count="185" />
+      <entry feature="execute.DjangoTestsConfigurationType.Run" count="1" />
+      <entry feature="execute.PythonConfigurationType.Debug" count="243" />
+      <entry feature="execute.PythonConfigurationType.Run" count="295" />
+      <entry feature="execute.tests.Coverage" count="1" />
+      <entry feature="execute.tests.Profiler" count="2" />
+      <entry feature="execute.tests.Run" count="9" />
+      <entry feature="ide.help.find.todoList" count="1" />
+      <entry feature="ide.help.reference.toolwindows.event.log" count="1" />
+      <entry feature="ide.settings.Appearance" count="8" />
+      <entry feature="ide.settings.Auto_Import" count="1" />
+      <entry feature="ide.settings.Console_Font" count="2" />
+      <entry feature="ide.settings.File_Encodings" count="2" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="2" />
+      <entry feature="ide.settings.Font" count="8" />
+      <entry feature="ide.settings.General" count="2" />
+      <entry feature="ide.settings.Inspections" count="2" />
+      <entry feature="ide.settings.Keymap" count="3" />
+      <entry feature="ide.settings.Live_Templates" count="2" />
+      <entry feature="ide.settings.Maven" count="5" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.Project_Structure" count="1" />
+      <entry feature="ide.settings.System_Settings" count="1" />
+      <entry feature="ide.settings.TODO" count="5" />
+      <entry feature="ide.settings.Version_Control" count="3" />
+      <entry feature="ideaapp.started" count="98" />
+      <entry feature="scala.convert.javatext" count="3" />
+      <entry feature="scala.file.script.parsed" count="6607" />
+      <entry feature="scala.file.with.type.aware.annotated" count="2166" />
+      <entry feature="scala.move.class" count="2" />
+      <entry feature="terminal.win" count="32" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="21" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="7" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="14" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="6" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="2" />
+      <entry feature="welcome.screen.null" count="1" />
+    </counts>
+  </component>
+</application>

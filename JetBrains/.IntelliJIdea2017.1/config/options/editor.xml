@@ -1,0 +1,17 @@
+<application>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
+  </component>
+  <component name="SqlEditorOptions">
+    <option name="concatenateStringsOnEnter" value="true" />
+    <option name="qualificationType" value="On collisions" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern icon="question" case-sensitive="true" pattern="\btodo\b.*" />
+    <pattern case-sensitive="true" pattern="\btodo_test\b.*" />
+    <pattern icon="question" case-sensitive="true" pattern="\bTODO\b.*" />
+    <filter name="测试内容，可以删">
+      <pattern index="1" />
+    </filter>
+  </component>
+</application>

@@ -1,0 +1,5 @@
+<templateSet group="Python">
+  <template name="todo" value="# TODO: $todo$ " description="" toReformat="false" toShortenFQNames="true">
+    <variable name="todo" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>

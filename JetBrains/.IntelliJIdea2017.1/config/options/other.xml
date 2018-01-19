@@ -1,0 +1,17 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Code\Python\python27\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="com.seventh7.widget.iedis.config.I">
+    <pattern>*</pattern>
+  </component>
+  <component name="com.seventh7.widget.iedis.config.ServerConfigurations">
+    <servers>
+      <general label="Redis" host="10.18.51.57" port="6379" password="123456" timestamp="1506905342671" />
+    </servers>
+  </component>
+</application>

@@ -1,0 +1,32 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Debug@NavBarToolbar" count="68" />
+      <entry action="Pause@DebuggerToolbar" count="9" />
+      <entry action="Print@RunnerToolbar" count="2" />
+      <entry action="Rerun@RunnerToolbar" count="14" />
+      <entry action="Resume@DebuggerToolbar" count="5" />
+      <entry action="Run@NavBarToolbar" count="47" />
+      <entry action="Runner.RestoreLayout@DebuggerToolbar" count="1" />
+      <entry action="Runner.RestoreLayout@RunnerToolbar" count="2" />
+      <entry action="Stop@DebuggerToolbar" count="13" />
+      <entry action="Stop@NavBarToolbar" count="96" />
+      <entry action="Stop@RunnerToolbar" count="31" />
+      <entry action="Vcs.ShowTabbedFileHistory@NavBarToolbar" count="2" />
+      <entry action="ViewBreakpoints@DebuggerToolbar" count="8" />
+      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="1" />
+      <entry action="com.intellij.execution.configurations.CommandLineState$PauseOutputAction@RunnerToolbar" count="7" />
+      <entry action="com.intellij.execution.console.DuplexConsoleView$MergedAction@RunnerToolbar" count="29" />
+      <entry action="com.intellij.execution.console.DuplexConsoleView$MergedToggleAction@RunnerToolbar" count="1" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@RunnerToolbar" count="38" />
+      <entry action="com.intellij.execution.ui.actions.CloseAction@DebuggerToolbar" count="1" />
+      <entry action="com.intellij.execution.ui.actions.CloseAction@RunnerToolbar" count="2" />
+      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="3" />
+      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="52" />
+      <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="20" />
+      <entry action="com.intellij.openapi.editor.actions.ScrollToTheEndToolbarAction@RunnerToolbar" count="37" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="7" />
+      <entry action="com.jetbrains.python.console.PydevConsoleRunnerImpl$7@PydevConsoleRunner" count="1" />
+    </counts>
+  </component>
+</application>

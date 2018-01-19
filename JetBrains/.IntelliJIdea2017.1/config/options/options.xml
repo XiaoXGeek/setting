@@ -1,0 +1,43 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="installed.kotlin.plugin.version" value="1.1.2-release-IJ2017.1-1" />
+    <property name="android-component-compatibility-check" value="1515928388360" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="93" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="PLUGIN_FILTER" value="stackoverflow&#10;scala&#10;Iedis&#10;python&#10;pyth" />
+    <property name="file.chooser.recent.files" value="D:/code/idea_java&#10;D:/code/idea_scala&#10;F:/Repository/Maven&#10;F:/Repository/Maven/settings.xml&#10;D:/mavenRpo&#10;D:/mavenRpo/settings.xml&#10;D:/code/hadoop_sourcecode/《Hadoop技术内幕》(蔡斌%2b陈湘萍)源代码121207/HadoopInternal&#10;D:/code/hadoop_sourcecode/hadoop-1.0.0&#10;D:/code/hadoop_sourcecode/hadoop-3.0.0-beta1-src&#10;D:/code/hadoop_sourcecode/hadoop&#10;D:/code/hadoop_sourcecode&#10;D:/Program/idea_python&#10;D:/Git&#10;D:/code/GitRpo&#10;D:/code/idea_python/SinaLogin&#10;E:/Envs/py2scrapy/Scripts/python.exe&#10;D:/code/idea_python/MySinaSpider&#10;D:/Program/idea_java&#10;C:/Code/Java/jdk1.8.0_11&#10;D:/code/idea_python/zhihu&#10;D:/Program/idea_python/zhihu&#10;E:/Envs/py354scrapy/Scripts/python.exe&#10;E:/Envs/py3scrapy/Scripts/python.exe&#10;F:/desktop/jobboleSpider&#10;D:/Program/idea_python/jobboleSpider&#10;D:/Program/idea_python/py2scrapy&#10;C:/Code/Python/python27/python.exe&#10;D:/Program/idea_python/.idea&#10;D:/Program/idea_python/com/xiaox&#10;C:/Code/Python/Python36/python.exe" />
+    <property name="plugins.preselection.path" value="D:/" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+    <property name="jdk.selected.PYTHON_MODULE" value="Python 3.5.4 virtualenv at E:\Envs\py354scrapy" />
+    <property name="file.gist.reindex.count" value="31593" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="PythonUnitTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="PythonUnitTestRunnerSupport.hideIgnoredTests" value="true" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="python.app.engine.sdk.path" value="" />
+    <property name="last.imported.location" value="D:/code/hadoop_sourcecode/hadoop-1.0.0" />
+    <property name="selected.color.option.type" value="CONSOLE_USER_INPUT" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6540404" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="vcs.log.details.splitter.proportion" value="0.39636365" />
+    <property name="FileTemplates.SelectedTemplate" value="Python Script" />
+    <property name="evlsprt3.171" value="14" />
+    <property name="KEYMAP" value="quick document&#10;package&#10;interface&#10;import&#10;screen" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.10863661" />
+    <property name="java.module.default.source.root" value="src" />
+    <property name="scala.last.updated" value="1513141988419" />
+  </component>
+</application>
